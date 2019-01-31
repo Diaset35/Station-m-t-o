@@ -8,9 +8,11 @@ Réalisation d'un montage affichant les informations de date et de météo.
 
 cliquer sur la photo pour voir la video
 
+
 # Schema du montage
 
 ![Station-m-t-o](Stationmeteo.jpg)
+
 
 # Bibliothèque a utiliser
 
@@ -25,5 +27,12 @@ include <LiquidCrystal.h>
 include <Wire.h>
 
 include <RtcDS3231.h>
+
+
+# Liste des composants
+
++ 1 Arduino UNO
++ 1 cable Arduino
++ 1 Bread Board
 
 
