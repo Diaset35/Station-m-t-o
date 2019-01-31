@@ -9,3 +9,5 @@ Réalisation d'un montage affichant les informations de date et de météo.
 cliquer sur la photo pour voir la video
 
 # Schema du montage
+
+![Station-m-t-o](Stationmeteo.jpg)
